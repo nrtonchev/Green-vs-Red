@@ -1,0 +1,13 @@
+D:\Programming\MentorMate DevCamp Assignment\Green-vs-Red\GreenVsRed\bin\Debug\netcoreapp3.1\GreenVsRed.exe
+D:\Programming\MentorMate DevCamp Assignment\Green-vs-Red\GreenVsRed\bin\Debug\netcoreapp3.1\GreenVsRed.deps.json
+D:\Programming\MentorMate DevCamp Assignment\Green-vs-Red\GreenVsRed\bin\Debug\netcoreapp3.1\GreenVsRed.runtimeconfig.json
+D:\Programming\MentorMate DevCamp Assignment\Green-vs-Red\GreenVsRed\bin\Debug\netcoreapp3.1\GreenVsRed.runtimeconfig.dev.json
+D:\Programming\MentorMate DevCamp Assignment\Green-vs-Red\GreenVsRed\bin\Debug\netcoreapp3.1\GreenVsRed.dll
+D:\Programming\MentorMate DevCamp Assignment\Green-vs-Red\GreenVsRed\bin\Debug\netcoreapp3.1\GreenVsRed.pdb
+D:\Programming\MentorMate DevCamp Assignment\Green-vs-Red\GreenVsRed\obj\Debug\netcoreapp3.1\GreenVsRed.csprojAssemblyReference.cache
+D:\Programming\MentorMate DevCamp Assignment\Green-vs-Red\GreenVsRed\obj\Debug\netcoreapp3.1\GreenVsRed.AssemblyInfoInputs.cache
+D:\Programming\MentorMate DevCamp Assignment\Green-vs-Red\GreenVsRed\obj\Debug\netcoreapp3.1\GreenVsRed.AssemblyInfo.cs
+D:\Programming\MentorMate DevCamp Assignment\Green-vs-Red\GreenVsRed\obj\Debug\netcoreapp3.1\GreenVsRed.csproj.CoreCompileInputs.cache
+D:\Programming\MentorMate DevCamp Assignment\Green-vs-Red\GreenVsRed\obj\Debug\netcoreapp3.1\GreenVsRed.dll
+D:\Programming\MentorMate DevCamp Assignment\Green-vs-Red\GreenVsRed\obj\Debug\netcoreapp3.1\GreenVsRed.pdb
+D:\Programming\MentorMate DevCamp Assignment\Green-vs-Red\GreenVsRed\obj\Debug\netcoreapp3.1\GreenVsRed.genruntimeconfig.cache
