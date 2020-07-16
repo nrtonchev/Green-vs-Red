@@ -8,6 +8,7 @@ namespace GreenVsRed.Models.Contracts
     {
         int Height { get; }
         int Width { get; }
-        void SetValue(int height, int width, int value);
+        void SetValue(int row, int col, char value);
+        void ApplyingRules();
     }
 }
